@@ -1,0 +1,19 @@
+ASSIGNMENT DESCRIPTION NOTE:
+    > Alice needs to authenticate to a webserver. 
+    > Submit different python script for each step:
+      - each script must print the last HTTP response your script received in its entirely.
+      - With the exception of step 1 and step 2, each step is complete when you receive 200 HTTP response containing message "Welcome Alice!".
+      - The web server has been build to provide error messages that inform you of common mistakes
+    > All attempts to log in must be automated.
+    > the web server can only be accesed with RIT network
+      - RIT Campus (must originate from a 129.21.0.0/16 IP)
+         or
+      - RIT VPNs (which have public IP addresses in the range of 10.0.0.0/8)
+
+*IMPORTANT INFO:
+    > Web-Server: hw2.csec380.fun
+    > Port: 380
+    > UserAgent: CSEC-380
+    > Username: alice
+    > Password: SecretPassword123!
+    > Python library allowed: sockets, and strings (Not any of the main libraries that were usable in hw1)
