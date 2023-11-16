@@ -1,0 +1,539 @@
+-------------------- Metadata of Each File --------------------
+======== ./allfiles/Secrets.jpg
+ExifTool Version Number         : 12.67
+File Name                       : Secrets.jpg
+Directory                       : ./allfiles
+File Size                       : 92 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Modify, Copy, Fill forms, Extract, Print high-res
+Warning                         : Document is password protected (use Password option)
+======== ./allfiles/Second.jpg
+ExifTool Version Number         : 12.67
+File Name                       : Second.jpg
+Directory                       : ./allfiles
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Motorola
+Camera Model Name               : DROID RAZR HD
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2013:04:27 11:38:50
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/1471
+F Number                        : 2.4
+Exif Version                    : 0220
+Date/Time Original              : 2013:04:27 11:38:50
+Create Date                     : 2013:04:27 11:38:50
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 0
+Aperture Value                  : 2.4
+Brightness Value                : undef
+Max Aperture Value              : 2.4
+Metering Mode                   : Average
+Light Source                    : D50
+Flash                           : No Flash
+Focal Length                    : 4.4 mm
+Warning                         : [minor] Unrecognized MakerNotes
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3264
+Exif Image Height               : 2448
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto bracket
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Soft
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 970
+Thumbnail Length                : 26375
+Image Width                     : 3264
+Image Height                    : 2448
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 2.4
+Image Size                      : 3264x2448
+Megapixels                      : 8.0
+Shutter Speed                   : 1/1471
+Thumbnail Image                 : (Binary data 26375 bytes, use -b option to extract)
+Focal Length                    : 4.4 mm
+======== ./allfiles/First.jpg
+ExifTool Version Number         : 12.67
+File Name                       : First.jpg
+Directory                       : ./allfiles
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Motorola
+Camera Model Name               : DROID RAZR HD
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2013:04:27 11:38:50
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/1471
+F Number                        : 2.4
+Exif Version                    : 0220
+Date/Time Original              : 2013:04:27 11:38:50
+Create Date                     : 2013:04:27 11:38:50
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 0
+Aperture Value                  : 2.4
+Brightness Value                : undef
+Max Aperture Value              : 2.4
+Metering Mode                   : Average
+Light Source                    : D50
+Flash                           : No Flash
+Focal Length                    : 4.4 mm
+Warning                         : [minor] Unrecognized MakerNotes
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3264
+Exif Image Height               : 2448
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto bracket
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Soft
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 970
+Thumbnail Length                : 26375
+Image Width                     : 3264
+Image Height                    : 2448
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 2.4
+Image Size                      : 3264x2448
+Megapixels                      : 8.0
+Shutter Speed                   : 1/1471
+Thumbnail Image                 : (Binary data 26375 bytes, use -b option to extract)
+Focal Length                    : 4.4 mm
+======== ./allfiles/Second.pdf
+ExifTool Version Number         : 12.67
+File Name                       : Second.pdf
+Directory                       : ./allfiles
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Motorola
+Camera Model Name               : DROID RAZR HD
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2013:04:27 11:38:50
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/1471
+F Number                        : 2.4
+Exif Version                    : 0220
+Date/Time Original              : 2013:04:27 11:38:50
+Create Date                     : 2013:04:27 11:38:50
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 0
+Aperture Value                  : 2.4
+Brightness Value                : undef
+Max Aperture Value              : 2.4
+Metering Mode                   : Average
+Light Source                    : D50
+Flash                           : No Flash
+Focal Length                    : 4.4 mm
+Warning                         : [minor] Unrecognized MakerNotes
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3264
+Exif Image Height               : 2448
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto bracket
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Soft
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 970
+Thumbnail Length                : 26375
+Image Width                     : 3264
+Image Height                    : 2448
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 2.4
+Image Size                      : 3264x2448
+Megapixels                      : 8.0
+Shutter Speed                   : 1/1471
+Thumbnail Image                 : (Binary data 26375 bytes, use -b option to extract)
+Focal Length                    : 4.4 mm
+======== ./allfiles/First.pdf
+ExifTool Version Number         : 12.67
+File Name                       : First.pdf
+Directory                       : ./allfiles
+File Size                       : 188 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : en-US
+Tagged PDF                      : Yes
+Title                           : Tea Article
+Author                          : Wikipedia Community
+Keywords                        : Tea, Wikipedia, Beverages
+Creator                         : Microsoft® Word 2013
+Create Date                     : 2013:06:26 05:13:22-04:00
+Modify Date                     : 2013:06:26 05:13:22-04:00
+Producer                        : Microsoft® Word 2013
+======== ./allfiles/Secrets.png
+ExifTool Version Number         : 12.67
+File Name                       : Secrets.png
+Directory                       : ./allfiles
+File Size                       : 92 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Modify, Copy, Fill forms, Extract, Print high-res
+Warning                         : Document is password protected (use Password option)
+======== ./allfiles/Secrets.pdf
+ExifTool Version Number         : 12.67
+File Name                       : Secrets.pdf
+Directory                       : ./allfiles
+File Size                       : 92 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Modify, Copy, Fill forms, Extract, Print high-res
+Warning                         : Document is password protected (use Password option)
+======== ./allfiles/Secrets.jpeg
+ExifTool Version Number         : 12.67
+File Name                       : Secrets.jpeg
+Directory                       : ./allfiles
+File Size                       : 92 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Modify, Copy, Fill forms, Extract, Print high-res
+Warning                         : Document is password protected (use Password option)
+======== ./allfiles/First.png
+ExifTool Version Number         : 12.67
+File Name                       : First.png
+Directory                       : ./allfiles
+File Size                       : 188 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : en-US
+Tagged PDF                      : Yes
+Title                           : Tea Article
+Author                          : Wikipedia Community
+Keywords                        : Tea, Wikipedia, Beverages
+Creator                         : Microsoft® Word 2013
+Create Date                     : 2013:06:26 05:13:22-04:00
+Modify Date                     : 2013:06:26 05:13:22-04:00
+Producer                        : Microsoft® Word 2013
+======== ./allfiles/Second.png
+ExifTool Version Number         : 12.67
+File Name                       : Second.png
+Directory                       : ./allfiles
+File Size                       : 13 kB
+File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+File Access Date/Time           : 2023:10:11 09:35:05-04:00
+File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 640
+Image Height                    : 400
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Background Color                : 255 255 255
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+Modify Date                     : 2013:07:31 14:39:29
+Comment                         : Secret bank robbery plans
+Image Size                      : 640x400
+Megapixels                      : 0.256
+    1 directories scanned
+   10 image files read
+-------------------- Unique Tags --------------------
+ Composite 
+ ExifIFD 
+ ExifTool 
+ File 
+ IFD0 
+ IFD1 
+ InteropIFD 
+ PDF 
+ PNG 
+ System 
+-------------------- File Element Changeable --------------------
+---------- First.jpg ----------
+    1 image files updated
+4,5c4,5
+< File Size                       : 2.3 MB
+< File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+---
+> File Size                       : 2.2 MB
+> File Modification Date/Time     : 2023:10:11 09:35:22-04:00
+7c7
+< File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+---
+> File Inode Change Date/Time     : 2023:10:11 09:35:22-04:00
+12,53d11
+< Exif Byte Order                 : Big-endian (Motorola, MM)
+< Make                            : Motorola
+< Camera Model Name               : DROID RAZR HD
+< Orientation                     : Horizontal (normal)
+< X Resolution                    : 72
+< Y Resolution                    : 72
+< Resolution Unit                 : inches
+< Modify Date                     : 2013:04:27 11:38:50
+< Y Cb Cr Positioning             : Centered
+< Exposure Time                   : 1/1471
+< F Number                        : 2.4
+< Exif Version                    : 0220
+< Date/Time Original              : 2013:04:27 11:38:50
+< Create Date                     : 2013:04:27 11:38:50
+< Components Configuration        : Y, Cb, Cr, -
+< Shutter Speed Value             : 0
+< Aperture Value                  : 2.4
+< Brightness Value                : undef
+< Max Aperture Value              : 2.4
+< Metering Mode                   : Average
+< Light Source                    : D50
+< Flash                           : No Flash
+< Focal Length                    : 4.4 mm
+< Warning                         : [minor] Unrecognized MakerNotes
+< Flashpix Version                : 0100
+< Color Space                     : sRGB
+< Exif Image Width                : 3264
+< Exif Image Height               : 2448
+< Interoperability Index          : R98 - DCF basic file (sRGB)
+< Interoperability Version        : 0100
+< Scene Type                      : Directly photographed
+< Custom Rendered                 : Custom
+< Exposure Mode                   : Auto bracket
+< White Balance                   : Auto
+< Digital Zoom Ratio              : 1
+< Scene Capture Type              : Standard
+< Contrast                        : Normal
+< Saturation                      : Normal
+< Sharpness                       : Soft
+< Compression                     : JPEG (old-style)
+< Thumbnail Offset                : 970
+< Thumbnail Length                : 26375
+60d17
+< Aperture                        : 2.4
+63,65d19
+< Shutter Speed                   : 1/1471
+< Thumbnail Image                 : (Binary data 26375 bytes, use -b option to extract)
+< Focal Length                    : 4.4 mm
+---------- First.pdf ----------
+Warning: [minor] ExifTool PDF edits are reversible. Deleted tags may be recovered! - ./allfiles/First.pdf
+    1 image files updated
+4,7c4,7
+< File Size                       : 188 kB
+< File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+< File Access Date/Time           : 2023:10:11 09:35:22-04:00
+< File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+---
+> File Size                       : 189 kB
+> File Modification Date/Time     : 2023:10:11 09:35:23-04:00
+> File Access Date/Time           : 2023:10:11 09:35:23-04:00
+> File Inode Change Date/Time     : 2023:10:11 09:35:23-04:00
+17,23d16
+< Title                           : Tea Article
+< Author                          : Wikipedia Community
+< Keywords                        : Tea, Wikipedia, Beverages
+< Creator                         : Microsoft® Word 2013
+< Create Date                     : 2013:06:26 05:13:22-04:00
+< Modify Date                     : 2013:06:26 05:13:22-04:00
+< Producer                        : Microsoft® Word 2013
+---------- First.png ----------
+Error: Not a valid PNG (looks more like a PDF) - ./allfiles/First.png
+    0 image files updated
+    1 files weren't updated due to errors
+---------- Second.jpg ----------
+    1 image files updated
+4,7c4,7
+< File Size                       : 2.3 MB
+< File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+< File Access Date/Time           : 2023:10:11 09:35:22-04:00
+< File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+---
+> File Size                       : 2.2 MB
+> File Modification Date/Time     : 2023:10:11 09:35:24-04:00
+> File Access Date/Time           : 2023:10:11 09:35:24-04:00
+> File Inode Change Date/Time     : 2023:10:11 09:35:24-04:00
+12,53d11
+< Exif Byte Order                 : Big-endian (Motorola, MM)
+< Make                            : Motorola
+< Camera Model Name               : DROID RAZR HD
+< Orientation                     : Horizontal (normal)
+< X Resolution                    : 72
+< Y Resolution                    : 72
+< Resolution Unit                 : inches
+< Modify Date                     : 2013:04:27 11:38:50
+< Y Cb Cr Positioning             : Centered
+< Exposure Time                   : 1/1471
+< F Number                        : 2.4
+< Exif Version                    : 0220
+< Date/Time Original              : 2013:04:27 11:38:50
+< Create Date                     : 2013:04:27 11:38:50
+< Components Configuration        : Y, Cb, Cr, -
+< Shutter Speed Value             : 0
+< Aperture Value                  : 2.4
+< Brightness Value                : undef
+< Max Aperture Value              : 2.4
+< Metering Mode                   : Average
+< Light Source                    : D50
+< Flash                           : No Flash
+< Focal Length                    : 4.4 mm
+< Warning                         : [minor] Unrecognized MakerNotes
+< Flashpix Version                : 0100
+< Color Space                     : sRGB
+< Exif Image Width                : 3264
+< Exif Image Height               : 2448
+< Interoperability Index          : R98 - DCF basic file (sRGB)
+< Interoperability Version        : 0100
+< Scene Type                      : Directly photographed
+< Custom Rendered                 : Custom
+< Exposure Mode                   : Auto bracket
+< White Balance                   : Auto
+< Digital Zoom Ratio              : 1
+< Scene Capture Type              : Standard
+< Contrast                        : Normal
+< Saturation                      : Normal
+< Sharpness                       : Soft
+< Compression                     : JPEG (old-style)
+< Thumbnail Offset                : 970
+< Thumbnail Length                : 26375
+60d17
+< Aperture                        : 2.4
+63,65d19
+< Shutter Speed                   : 1/1471
+< Thumbnail Image                 : (Binary data 26375 bytes, use -b option to extract)
+< Focal Length                    : 4.4 mm
+---------- Second.pdf ----------
+Error: Not a valid PDF (looks more like a JPEG) - ./allfiles/Second.pdf
+    0 image files updated
+    1 files weren't updated due to errors
+---------- Second.png ----------
+    1 image files updated
+5,7c5,7
+< File Modification Date/Time     : 2023:10:11 09:35:05-04:00
+< File Access Date/Time           : 2023:10:11 09:35:22-04:00
+< File Inode Change Date/Time     : 2023:10:11 09:35:05-04:00
+---
+> File Modification Date/Time     : 2023:10:11 09:35:25-04:00
+> File Access Date/Time           : 2023:10:11 09:35:25-04:00
+> File Inode Change Date/Time     : 2023:10:11 09:35:25-04:00
+20,24d19
+< Pixels Per Unit X               : 2835
+< Pixels Per Unit Y               : 2835
+< Pixel Units                     : meters
+< Modify Date                     : 2013:07:31 14:39:29
+< Comment                         : Secret bank robbery plans
+---------- Secrets.jpeg ----------
+Error: Not a valid JPEG (looks more like a PDF) - ./allfiles/Secrets.jpeg
+    0 image files updated
+    1 files weren't updated due to errors
+---------- Secrets.jpg ----------
+Error: Not a valid JPG (looks more like a PDF) - ./allfiles/Secrets.jpg
+    0 image files updated
+    1 files weren't updated due to errors
+---------- Secrets.pdf ----------
+Error: Document is password protected (use Password option) - ./allfiles/Secrets.pdf
+    0 image files updated
+    1 files weren't updated due to errors
+---------- Secrets.png ----------
+Error: Not a valid PNG (looks more like a PDF) - ./allfiles/Secrets.png
+    0 image files updated
+    1 files weren't updated due to errors
