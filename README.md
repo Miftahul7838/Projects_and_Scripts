@@ -13,7 +13,7 @@ I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and
 *   🧠  I'm learning `Go`
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises!
 
-<a href="https://www.github.com/Sma-Das" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sma-Das?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/Miftahul7838" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sma-Das?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 ### Skills
