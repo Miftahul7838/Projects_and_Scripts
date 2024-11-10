@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miftahul Huq
 ===============================================================================================================================
 
-Cybersecurity student @ RIT
+Cybersecurity Student @ RIT
 --------------------------------------
 
 I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and Secure Software. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
