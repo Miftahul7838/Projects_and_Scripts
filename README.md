@@ -8,9 +8,9 @@ I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and
 
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [sma-das.com](http://sma-das.com)
-*   ✉️  You can contact me at [sma@sma-das.com](mailto:sma@sma-das.com)
-*   🚀  I'm currently working @Google
-*   🧠  I'm learning `Go`
+*   ✉️  You can contact me at [mh8872@rit.edu](mailto:mh8872@rit.edu)
+*   🚀  I'm currently CyberSecurity student @ RIT
+*   🧠  I'm currently learning how to do vulnearbility research
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises!
 
 <a href="https://github.com/Miftahul7838" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Miftahul7838?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -45,5 +45,5 @@ I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and
                     
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Sma-Das" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miftahul-huq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/Miftahul7838" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miftahul-huq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 Find my experience on <a href="https://sma-das.com"> my portfolio!</a>
