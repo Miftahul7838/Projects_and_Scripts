@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miftahul Huq
 ===============================================================================================================================
 
-Cybersecurity and Secure Software Engineering
+Cybersecurity student @ RIT
 --------------------------------------
 
 I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and Secure Software. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
@@ -9,7 +9,7 @@ I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [sma-das.com](http://sma-das.com)
 *   ✉️  You can contact me at [mh8872@rit.edu](mailto:mh8872@rit.edu)
-*   🚀  I'm currently CyberSecurity student @ RIT
+*   🚀  I'm currently looking for a job in Cybersecurity
 *   🧠  I'm currently learning how to do vulnearbility research
 *   🤝  I'm open to collaborating on any software projects or offensive team exercises!
 
