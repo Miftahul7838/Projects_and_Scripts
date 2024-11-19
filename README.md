@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Student @ RIT
 --------------------------------------
 
-I am a Cybersecurity Engineer @ Google with a passion for Offensive Security and Secure Software. I have currently been developing secure cloud resources for universities using AWS to build, test, and deploy essential products. I have development experience in a multitude of languages including Python, Java, C, and Javascript/Typescript.
+I am in my final year of a BS/MS in Cybersecurity at RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and ensuring companies follow the best cybersecurity practices.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [mh8872@rit.edu](mailto:mh8872@rit.edu)
